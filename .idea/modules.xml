@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/authorizationserver/authorizationserver.iml" filepath="$PROJECT_DIR$/authorizationserver/authorizationserver.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/oauthtestproject.iml" filepath="$PROJECT_DIR$/.idea/oauthtestproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/resourceserver/resourceserver.iml" filepath="$PROJECT_DIR$/resourceserver/resourceserver.iml" />
     </modules>
   </component>
 </project>

@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.lynch</groupId>
-	<artifactId>oauthproject</artifactId>
+	<artifactId>oauthprojectclient</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>oauthproject</name>
 	<description>Demo project for Spring Boot</description>
